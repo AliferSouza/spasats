@@ -1,0 +1,74 @@
+
+
+@media only screen and (min-width: 1000px) {
+
+  .container-banner-information-button{
+    padding: 10px 30px 10px 30px;
+    font-size: 15px;
+
+  }
+  
+  .container-banner-information{  
+    top:20%;
+    margin-left: 5%;
+  }
+
+
+  
+  .container-banner-information-font01{
+    font-size: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+  }
+  
+  .container-banner-information-font02{
+    margin: 18px 0px 18px 0px;
+    font-size: 20px;
+
+  }
+  
+  .container-banner-information-font03{
+    margin: 18px 0px 18px 0px;
+    font-size: 18px;
+  }
+  
+
+  .header {
+    margin: 0px 15vw 0 15vw;
+  }
+  /*logo menu*/
+.container-home-menu-logo{
+  max-width: 120px
+ 
+ }
+
+ .link-home{
+  font-size: 30px;
+
+}
+
+   
+.text-banner{
+  font-size: 100px;
+}
+
+
+
+.container-texte-home-01{
+  font-size: 40px;
+
+}
+
+.container-texte-home-02{
+  font-size: 20px;  
+}
+
+.container-texte-home-03{
+  font-size: 20px;
+}
+
+.home-img-card{
+  max-width: 250px;
+
+}
+
+}
